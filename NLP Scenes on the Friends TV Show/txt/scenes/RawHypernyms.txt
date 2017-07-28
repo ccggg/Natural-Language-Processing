@@ -1,0 +1,281 @@
+object transferred_property {1}
+act natural_language material artifact abstraction {2}
+enterprise entertainment entity {3}
+object physical_entity psychological_feature object {4}
+object physical_entity {5}
+abstraction whole entity {6}
+object entity physical_entity object {7}
+object physical_entity {8}
+act {9}
+event abstraction {10}
+abstraction physical_entity {11}
+physical_entity physical_entity {12}
+object transferred_property {13}
+event whole entity entity psychological_feature psychological_feature entity entity instrumentality {14}
+object transferred_property {15}
+object entity entity entity object abstraction physical_entity entity entity {16}
+act substance abstraction {17}
+object object {18}
+communication communication abstraction {19}
+abstraction abstraction {20}
+whole whole whole whole {21}
+event causal_agent {22}
+object transferred_property {23}
+entity perform entity {24}
+physical_entity abstraction {25}
+physical_entity physical_entity disappear {26}
+object transferred_property artifact device {27}
+whole act entity entity entity {28}
+whole physical_entity artifact object assets physical_phenomenon agent matter entity entity assets entity matter content physical_entity object assets phenomenon agent transfer abstraction matter entity matter object assets physical_entity entity entity entity {29}
+whole vertebrate causal_agent {30}
+object transferred_property act entity {31}
+physical_entity physical_entity {32}
+measure transferred_property displease physical_entity {33}
+physical_entity act {34}
+object transferred_property {35}
+object transferred_property act abstraction {36}
+whole event {37}
+object transferred_property transferred_property abstraction {38}
+commodity abstraction instrumentality {39}
+plane_figure location physical_entity process entity {40}
+physical_entity abstraction object {41}
+plane_figure location physical_entity act abstraction {42}
+psychological_feature object physical_entity {43}
+abstraction entity act {44}
+psychological_feature object produce activity cognition cognition physical_entity get abstraction causal_agent {45}
+physical_entity physical_entity {46}
+psychological_feature object entity {47}
+physical_entity physical_entity {48}
+object transferred_property whole {49}
+object transferred_property {50}
+object induce abstraction entity abstraction instrumentality entity entity {51}
+object {52}
+psychological_feature object entity process causal_agent {53}
+object transferred_property entity entity {54}
+abstraction entity assets whole object physical_entity entity {55}
+psychological_feature object move entity {56}
+psychological_feature object abstraction {57}
+physical_entity whole object abstraction {58}
+object transferred_property event entity {59}
+location {60}
+psychological_feature object thing artifact {61}
+object transferred_property entity entity object matter object region transfer {62}
+object abstraction entity entity abstraction abstraction {63}
+object abstraction act entity object abstraction entity {64}
+object transferred_property {65}
+{66}
+entity artifact {67}
+object entity psychological_feature physical_entity {68}
+artifact object {69}
+entity disappear {70}
+object transferred_property act entertainment artifact entity {71}
+act whole entity entity physical_phenomenon know confine entity {72}
+whole relative {73}
+act whole whole entity communication {74}
+object device artifact content {75}
+act whole {76}
+whole artifact {77}
+abstraction travel group event physical_entity entity abstraction {78}
+act whole {79}
+object entertainment {80}
+abstraction {81}
+event vertebrate act physical_condition entity event device condition {82}
+act whole {83}
+artifact physical_entity process vertebrate causal_agent {84}
+vertebrate causal_agent {85}
+entertainment psychological_feature {86}
+act whole {87}
+whole act {88}
+act act {89}
+whole physical_entity entity make physical_entity physical_entity object physical_phenomenon event activity group group group abstraction abstraction abstraction entity fundamental_quantity abstraction entity entity entity abstraction abstraction physical_entity entity whole entity entity object abstraction abstraction entity {90}
+entity abstraction object physical_entity entity entity entity ungulate fundamental_quantity entity abstraction physical_entity think think think entity physical_entity entity entity communicate abstraction abstraction express think location event refer refer refer cognition abstraction cognition abstraction entity entity entity abstraction physical_entity physical_entity physical_entity whole artifact abstraction abstraction psychological_feature psychological_feature assets whole whole whole whole whole psychological_feature physical_entity ancestor cause_to_be_perceived content physical_entity abstraction entity abstraction ancestor perceive {91}
+whole part part abstraction abstraction physical_entity physical_entity person psychological_state abstraction abstraction ancestor part transferred_property transferred_property organism object part part action abstraction physical_entity abstraction relative change change change physical_entity entity psychological_feature physical_entity activity {92}
+object transferred_property {93}
+object part whole {94}
+abstraction relative {95}
+whole physical_entity physical_entity {96}
+event artifact entity whole {97}
+change abstraction psychological_feature {98}
+psychological_feature psychological_feature {99}
+entity object event entity work analyze change {100}
+object transferred_property abstraction object {101}
+whole physical_entity entity {102}
+object transferred_property meet causal_agent {103}
+object transferred_property abstraction physical_entity {104}
+object {105}
+{106}
+enterprise psychological_feature entity abstraction {107}
+object transferred_property abstraction abstraction {108}
+attribute {109}
+event time_period matter entity whole act psychological_feature {110}
+change abstraction entity {111}
+entity event entity object {112}
+psychological_feature abstraction thing {113}
+artifact whole attribute object content artifact {114}
+psychological_feature {115}
+object transferred_property entity perform {116}
+change abstraction {117}
+object act abstraction abstraction {118}
+object transferred_property {119}
+object physical_entity abstraction artifact {120}
+entity {121}
+whole act place_of_business {122}
+whole physical_entity state fundamental_quantity fundamental_quantity act {123}
+act state physical_entity {124}
+whole whole event whole entertainment entity abstraction psychological_feature artifact {125}
+person object ancestor {126}
+entity artifact foodstuff foodstuff {127}
+whole abstraction state physical_entity object entity conveyance {128}
+abstraction abstraction matter whole {129}
+object transferred_property act act {130}
+state physical_entity object event abstraction state physical_entity artifact object {131}
+object transferred_property physical_entity instrumentality communication abstraction psychological_feature entity abstraction entity abstraction abstraction psychological_feature entity {132}
+whole whole {133}
+artifact entity physical_entity object move substance {134}
+abstraction artifact entity {135}
+part entity abstraction substance {136}
+entity act psychological_feature {137}
+object transferred_property {138}
+object transferred_property act {139}
+entity artifact entity {140}
+entity entity whole artifact {141}
+think entity {142}
+get attribute {143}
+act artifact artifact abstraction act {144}
+move whole entity {145}
+act abstraction contend durables object object cover whole physical_entity change object process abstraction object whole object artifact {146}
+object transferred_property entity abstraction {147}
+part whole {148}
+express_emotion ancestor psychological_state {149}
+artifact entity {150}
+abstraction {151}
+entity entity entity abstraction object {152}
+entity abstraction artifact {153}
+object transferred_property {154}
+object abstraction abstraction entity artifact abstraction artifact entity {155}
+object transferred_property {156}
+object transferred_property look entity artifact move abstraction abstraction {157}
+object transferred_property abstraction entity {158}
+object abstraction entity event {159}
+whole object abstraction {160}
+physical_entity talk entity entity abstraction {161}
+object entity move entity react artifact content {162}
+whole entity process thing entity event affect {163}
+artifact object {164}
+communication object entity {165}
+physical_entity event entity abstraction {166}
+object transferred_property change organic_process {167}
+communication object {168}
+event entity abstraction entity {169}
+object transferred_property entity abstraction {170}
+abstraction entity entity whole entity abstraction abstraction physical_entity content thing content content act {171}
+object transferred_property action {172}
+act entity artifact {173}
+object physical_entity object abstraction {174}
+abstraction entity {175}
+object physical_entity physical_entity physical_entity entity physical_entity entity abstraction communication entertainment process {176}
+talk entity {177}
+whole whole entity {178}
+whole act perceive entity {179}
+work event act entity vertebrate entity {180}
+attribute object {181}
+measure entity kin location instrumentality object whole entity object transferred_property substance physical_entity transfer abstraction {182}
+abstraction entity abstraction content abstraction object act causal_agent social_group entity event {183}
+physical_entity change communication physical_entity communication abstraction psychological_state entertainment artifact {184}
+artifact entity abstraction physical_entity change abstraction entity artifact event travel activity causal_agent touch physical_entity entity psychological_feature psychological_feature psychological_feature discipline act physical_entity entity {185}
+whole entertainment entity causal_agent part abstraction physical_entity artifact {186}
+whole entity whole {187}
+object transferred_property artifact entity physical_entity {188}
+act natural_language communication entity object act whole physical_entity abstraction whole psychological_feature act {189}
+whole connect act abstraction expressive_style act whole causal_agent physical_entity artifact {190}
+artifact entity object hold hold body_part hold body_part activity causal_agent body_part causal_agent entity entity entity physical_entity {191}
+whole physical_entity abstraction physical_entity artifact {192}
+entity whole herb artifact entity work artifact entity {193}
+psychological_feature object pathological_state attribute abstraction {194}
+object transferred_property action artifact abstraction entity entity entity entity physical_entity {195}
+whole abstraction person compete {196}
+abstraction abstraction fundamental_quantity entity act entity {197}
+object matter relative {198}
+whole abstraction artifact physical_entity entity {199}
+entity whole physical_entity entity entertainment whole foodstuff commodity entity whole entity thing act abstraction {200}
+physical_entity psychological_feature communication substance instrumentality solid abstraction entity content entity {201}
+psychological_feature object event causal_agent psychological_feature act artifact decide act abstraction psychological_feature abstraction {202}
+abstraction whole entity abstraction abstraction {203}
+psychological_feature object entity abstraction travel cover object hold physical_entity entity event artifact {204}
+object transferred_property entertainment abstraction abstraction natural_object organism entity displease entity object whole whole physical_entity causal_agent cognition commodity abstraction commodity psychological_feature determine whole abstraction entity artifact {205}
+object transferred_property event entity physical_entity {206}
+physical_entity act physical_entity abstraction whole {207}
+object matter {208}
+{209}
+object move entity mammal abstraction entity abstraction entity {210}
+act {211}
+entity whole abstraction {212}
+object transferred_property abstraction physical_entity {213}
+object transferred_property entity {214}
+physical_entity communication {215}
+communication matter physical_entity {216}
+abstraction psychological_feature act material abstraction {217}
+act {218}
+{219}
+object transferred_property {220}
+transferred_property whole whole get artifact {221}
+{222}
+artifact whole change {223}
+take whole {224}
+entity event look whole pathological_state {225}
+object transferred_property entity physical_entity {226}
+instrumentality event look whole {227}
+whole whole change object {228}
+entity {229}
+entity communication appear object {230}
+object transferred_property talk entity communication {231}
+{232}
+abstraction entity physical_entity entity artifact {233}
+object transferred_property psychological_feature {234}
+object transferred_property physical_entity act physical_entity event substance chordate {235}
+{236}
+chordate psychological_feature {237}
+object transferred_property abstraction abstraction abstraction {238}
+change entity psychological_feature artifact psychological_feature writing event causal_agent {239}
+kin location social_group act act {240}
+abstraction entity entity artifact {241}
+object {242}
+object transferred_property act event entity {243}
+whole whole abstraction abstraction {244}
+abstraction act writing {245}
+object transferred_property {246}
+event artifact {247}
+act {248}
+{249}
+whole abstraction entity abstraction {250}
+object transferred_property transferred_property whole whole act {251}
+artifact object object perceive entity entity content {252}
+whole abstraction object abstraction {253}
+communication whole object artifact entity {254}
+abstraction object travel entity {255}
+abstraction object entertainment abstraction {256}
+whole object whole relative {257}
+communication whole object event {258}
+whole object entity entity causal_agent entity object {259}
+artifact event {260}
+whole whole {261}
+communication object {262}
+entity act {263}
+whole whole decide abstraction event artifact {264}
+abstraction object whole relative entity {265}
+abstraction object physical_entity {266}
+artifact act object conveyance location causal_agent relative perceive artifact {267}
+whole whole physical_entity artifact entity physical_entity entity {268}
+entity abstraction entity whole whole {269}
+whole whole whole physical_entity entity object whole entity causal_agent whole entity object {270}
+event {271}
+act object event causal_agent {272}
+whole whole psychological_feature {273}
+object transferred_property abstraction entity object causal_agent entity entity {274}
+change matter fundamental_quantity {275}
+act {276}
+object instrumentality event act communication physical_entity content abstraction communication psychological_feature physical_entity physical_entity entity physical_entity {277}
+artifact {278}
+event physical_entity entity content abstraction {279}
+physical_entity matter physical_entity whole artifact {280}
+content entity move whole {281}
